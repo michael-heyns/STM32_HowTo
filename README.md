@@ -1,6 +1,10 @@
-# STM32_HowTo
 
-## Tutorial: Debugging on STM32xx with CodeLite or NetBeans
+
+# **Outdated**
+
+## STM32_HowTo
+
+### Tutorial: Debugging on STM32xx with CodeLite or NetBeans
 
 This tutorial is a step-by-step guide for configuring CodeLite and NetBeans using only
 Open Source software in order to develop (and debug) professional ARM code on the STM32xx 
